@@ -1,0 +1,6 @@
+{
+    "rabbitIP": "10.0.130.58",
+    "rabbitUser": "admin",
+    "rabbitPass": "cdc",
+    "sqlInfo": "Server=10.0.130.57;Database=banko;UID=sa;password=cdc;",
+}

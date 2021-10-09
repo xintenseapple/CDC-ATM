@@ -1,0 +1,15 @@
+C:\Users\haadi\repos\iseage_ATM\ATM\ATM\bin\Release\netcoreapp3.1\publish\ATM.exe
+C:\Users\haadi\repos\iseage_ATM\ATM\ATM\bin\Release\netcoreapp3.1\publish\ATM.dll
+C:\Users\haadi\repos\iseage_ATM\ATM\ATM\bin\Release\netcoreapp3.1\publish\ATM.deps.json
+C:\Users\haadi\repos\iseage_ATM\ATM\ATM\bin\Release\netcoreapp3.1\publish\ATM.runtimeconfig.json
+C:\Users\haadi\repos\iseage_ATM\ATM\ATM\bin\Release\netcoreapp3.1\publish\ATM.dll.config
+C:\Users\haadi\repos\iseage_ATM\ATM\ATM\bin\Release\netcoreapp3.1\publish\ATM.pdb
+C:\Users\haadi\repos\iseage_ATM\ATM\ATM\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll
+C:\Users\haadi\repos\iseage_ATM\ATM\ATM\bin\Release\netcoreapp3.1\publish\RabbitMQ.Client.dll
+C:\Users\haadi\repos\iseage_ATM\ATM\ATM\bin\Release\netcoreapp3.1\publish\System.Data.SqlClient.dll
+C:\Users\haadi\repos\iseage_ATM\ATM\ATM\bin\Release\netcoreapp3.1\publish\System.Threading.Channels.dll
+C:\Users\haadi\repos\iseage_ATM\ATM\ATM\bin\Release\netcoreapp3.1\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\haadi\repos\iseage_ATM\ATM\ATM\bin\Release\netcoreapp3.1\publish\runtimes\win-x64\native\sni.dll
+C:\Users\haadi\repos\iseage_ATM\ATM\ATM\bin\Release\netcoreapp3.1\publish\runtimes\win-x86\native\sni.dll
+C:\Users\haadi\repos\iseage_ATM\ATM\ATM\bin\Release\netcoreapp3.1\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\haadi\repos\iseage_ATM\ATM\ATM\bin\Release\netcoreapp3.1\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
